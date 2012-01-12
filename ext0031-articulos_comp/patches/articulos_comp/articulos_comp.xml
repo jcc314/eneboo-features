@@ -18,6 +18,7 @@
   <flpatch:patchScript path="facturacion/almacen/scripts/" name="regstocks.qs"/>
   <flpatch:addFile path="facturacion/almacen/scripts/" name="tiposopcionartcomp.qs"/>
   <flpatch:patchXml path="facturacion/almacen/tables/" name="articulos.mtd"/>
+  <flpatch:patchXml path="facturacion/almacen/tables/" name="familias.mtd"/>
   <flpatch:addFile path="facturacion/almacen/tables/" name="articuloscomp.mtd"/>
   <flpatch:addFile path="facturacion/almacen/tables/" name="movistock.mtd"/>
   <flpatch:addFile path="facturacion/almacen/tables/" name="opcionesarticulocomp.mtd"/>
